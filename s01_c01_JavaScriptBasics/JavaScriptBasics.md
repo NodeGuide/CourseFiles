@@ -1,4 +1,4 @@
-# JavaScript Node REPL Tutorial
+# JavaScript Node REPL Basics
 
 NODE REPL / Console
 -------------------
