@@ -1,4 +1,4 @@
-# JavaScript Node REPL Over
+# JavaScript Node REPL Tutorial
 
 NODE REPL / Console
 -------------------
