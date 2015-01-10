@@ -20,3 +20,8 @@ Express Webserver
 ```
 $ node app.js
 ```
+
+HINT: Only one server can run at a time, hit CTRL+C to exit a running server
+
+
+NOTE: This section uses Emacs instead of Sublime as an editor, which is launched the alias "edit" instead of "subl"
