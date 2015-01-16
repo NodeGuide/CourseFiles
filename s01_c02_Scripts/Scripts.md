@@ -18,20 +18,20 @@ $ subl math.js
 Running Scripts
 ---------------
 
+`BeginningNode/Math/`[math.js](BeginningNode/Math/math.js)
+
 ```
 $ node math.js
 12
 ```
 
-`source: BeginningNode/Math/`[math.js](BeginningNode/Math/math.js)
-
+`BeginningNode/Math/` [math02.js](BeginningNode/Math/math02.js)
 
 ```
 $ node math02.js
 20
 ```
 
-`source: BeginningNode/Math/` [math02.js](BeginningNode/Math/math02.js)
 
 Reading Arguments
 -----------------
