@@ -23,14 +23,15 @@ $ node math.js
 12
 ```
 
+\> [math.js](BeginningNode/Math/math.js)
+
+
 ```
 $ node math02.js
 20
 ```
 
-Resources
-* [math.js](BeginningNode/Math/math.js)
-* [math02.js](BeginningNode/Math/math02.js)
+\> [math02.js](BeginningNode/Math/math02.js)
 
 Reading Arguments
 -----------------
