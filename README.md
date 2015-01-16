@@ -2,8 +2,6 @@
 
 This is the source code for the [Ultimate Node Guide](https://www.udemy.com/the-ultimate-guide-to-nodejs-express/?couponCode=GITHUB).
 
-[Downloaded all files](https://github.com/NodeGuide/CourseFiles/archive/master.zip).
-
 Node Basics
 -----------
 
@@ -23,4 +21,8 @@ Express Basics
 * [Routes](/s02_c04_Routes)
 * [Generator](/s02_c05_Generator)
 
+
+You may [downloaded all files](https://github.com/NodeGuide/CourseFiles/archive/master.zip) but updates will be posted to github at (NodeGuide/CourseFiles)[https://github.com/NodeGuide/CourseFiles].
+
 If you have any questions, please reach out to greg@ultimatenodeguide.com.
+
