@@ -36,6 +36,8 @@ $ node math02.js
 Reading Arguments
 -----------------
 
+`BeginningNode/Math/` [math03.js](BeginningNode/Math/math03.js)
+
 ```
 $ node math03.js
 [ 'node',
@@ -54,6 +56,8 @@ $ node math03.js 2 3
 
 Passing Arguments
 -----------------
+
+`BeginningNode/Math/` [math04.js](BeginningNode/Math/math03.js)
 
 ```
 $ node math04.js 2 3
