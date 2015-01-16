@@ -2,7 +2,7 @@
 
 This is the source code for the [Ultimate Node Guide](https://www.udemy.com/the-ultimate-guide-to-nodejs-express/?couponCode=GITHUB).
 
-[Downloaded all files](/archive/master.zip).
+[Downloaded all files](https://github.com/NodeGuide/CourseFiles/archive/master.zip).
 
 Node Basics
 -----------
