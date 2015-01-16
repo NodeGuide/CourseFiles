@@ -22,7 +22,7 @@ Express Basics
 * [Generator](/s02_c05_Generator)
 
 
-You may [downloaded all files](https://github.com/NodeGuide/CourseFiles/archive/master.zip) but updates will be posted to github at (NodeGuide/CourseFiles)[https://github.com/NodeGuide/CourseFiles].
+You may [downloaded all files](https://github.com/NodeGuide/CourseFiles/archive/master.zip) but updates will be posted to github at [NodeGuide/CourseFiles](https://github.com/NodeGuide/CourseFiles).
 
 If you have any questions, please reach out to greg@ultimatenodeguide.com.
 
